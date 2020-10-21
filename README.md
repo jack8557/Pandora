@@ -2,7 +2,7 @@
 
 # Unity
 
-**Unity** is a new mutli-threaded, cross-version anticheat, that aims to enforce legit behavior, and punish those with abnormal behavior. Unity is far from being completed, bugs are false positives are to be expected. Please report them though, and I will try my best to patch them.
+**Unity** is a new mutli-threaded, cross-version anticheat, that aims to enforce legit behavior, and punish those with abnormal behavior. Unity is far from being completed, bugs are false positives are to be expected. Please report them.
 
 ## Checks
 
