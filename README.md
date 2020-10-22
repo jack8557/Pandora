@@ -20,6 +20,10 @@ Checks so far:
 
 Most checks also have customizable settings, so if you feel like a check is to weak or if it falses too much, you can always change the values!
 
+## Videos
+
+[![Pandora Demo](https://img.youtube.com/vi/emlb9vlslVo/0.jpg)](https://www.youtube.com/watch?v=emlb9vlslVo)
+
 ## Download
 
 Pandora is currently 100% free, you can download it [here](https://discord.gg/JfpzGHQ).
