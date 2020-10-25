@@ -16,6 +16,10 @@ Checks so far:
  - Fast Climb
  - Reach/Hit Box
  - Jesus
+ - Timer
+ - No Slow
+ - Bad Packets
+ - Velocity
 
 
 Most checks also have customizable settings, so if you feel like a check is to weak or if it falses too much, you can always change the values!
