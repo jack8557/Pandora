@@ -20,9 +20,15 @@ Checks so far:
  - No Slow
  - Bad Packets
  - Velocity
+ 
+ ## Commands
 
+ - /pandora alerts (Switch between OFF, SLOW, NORMAL alert types | pandora.alerts)
+ - /pandora reload (Reloads the configuration files | pandora.reload)
+ - /pandora support (Link to support Discord server | pandora.support)
+ - /pandora vl {player} (Check a players total VL | pandora.checkvl)
+ - /pandora clear {player} (Clear a players total VL | pandora.clearvl)
 
-Most checks also have customizable settings, so if you feel like a check is to weak or if it falses too much, you can always change the values!
 
 ## Videos
 
